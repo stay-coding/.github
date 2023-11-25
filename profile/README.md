@@ -1,4 +1,4 @@
-<h1>Whats good? 👋, My name is Aria Maulana</h1>
+<h1>Whats good? 👋, My name is Aria Maulana Eka Mahendra</h1>
 Uploading all of my past projects... ████████░░ 80%
 
 <h3>Laravel enthusiasm</h3>
